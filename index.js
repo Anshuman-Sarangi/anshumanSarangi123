@@ -4,3 +4,8 @@ function GetName(){
     return 1;
     
 }
+
+
+function GetNumber(){
+    return 0;
+}
