@@ -8,8 +8,3 @@ function getName(){
 function GetNumber(){
     return 0;
 }
-
-
-function GetNumber(){
-    return 0;
-}
